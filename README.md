@@ -1,5 +1,7 @@
 # ViaCEP
 
+(Ajustando compatibilidade com DNN 9.x)
+
 A .NET client wrapper for both .NET Core & .NET Framework projects of [Via CEP API](https://viacep.com.br)
 
 [![GitHub license](https://img.shields.io/github/license/guibranco/ViaCep)](https://github.com/guibranco/ViaCep)
